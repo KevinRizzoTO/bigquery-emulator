@@ -26,6 +26,8 @@ github.com/GoogleCloudPlatform/golang-samples/bigquery v0.0.0-20221115172052-07f
 github.com/GoogleCloudPlatform/golang-samples/bigquery v0.0.0-20221115172052-07ffb99455e8/go.mod h1:VB6n8DYUiQ07iCBJ5MTjHy8+zI5FNiNT0IDbZ00nhAc=
 github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c h1:RGWPOewvKIROun94nF7v2cua9qP+thov/7M50KEoeSU=
 github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c/go.mod h1:X0CRv0ky0k6m906ixxpzmDRLvX58TFUKS2eePweuyxk=
+github.com/KevinRizzoTO/go-zetasqlite v0.0.0-20240503220600-257b9c68f45a h1:5//h776xlyxW6R0AzLmhO1LZET2mBTdT6oJwl0EXMIA=
+github.com/KevinRizzoTO/go-zetasqlite v0.0.0-20240503220600-257b9c68f45a/go.mod h1:ThavIQcmI6a/sVTpvJtj+idUui32gwbnXe1jeb7pISY=
 github.com/andybalholm/brotli v1.0.5 h1:8uQZIdzKmjc/iuPu7O2ioW48L81FgatrcpfFmiq/cCs=
 github.com/andybalholm/brotli v1.0.5/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/apache/arrow/go/v10 v10.0.1 h1:n9dERvixoC/1JjDmBcs9FPaEryoANa2sCgVFo6ez9cI=
@@ -85,8 +87,6 @@ github.com/goccy/go-yaml v1.11.0 h1:n7Z+zx8S9f9KgzG6KtQKf+kwqXZlLNR2F6018Dgau54=
 github.com/goccy/go-yaml v1.11.0/go.mod h1:H+mJrWtjPTJAHvRbV09MCK9xYwODM+wRTVFFTWckfng=
 github.com/goccy/go-zetasql v0.5.5 h1:3JpXt3p2533rnZMu09upCcI7YJ2KfjKgdo2Lu0xo+fU=
 github.com/goccy/go-zetasql v0.5.5/go.mod h1:xvvooX2RG404vnbdFZuAM8bTFksYwVUlqeIUrUNuo40=
-github.com/goccy/go-zetasqlite v0.19.2 h1:3eVwY7J2Gj0VtBW/9z8MAuEphuZxj0zLj7rnrZ/PERE=
-github.com/goccy/go-zetasqlite v0.19.2/go.mod h1:ThavIQcmI6a/sVTpvJtj+idUui32gwbnXe1jeb7pISY=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
 github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
 github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da h1:oI5xCqsCo564l8iNU+DwB5epxmsaqB+rhGL0m5jtYqE=
